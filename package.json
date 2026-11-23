@@ -1,0 +1,1 @@
+{"engines":{"node":">=22"},"main":"main.ts","name":"news-image-20261123-v7","private":true,"scripts":{"render":"python3 draw_news23_v7.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
